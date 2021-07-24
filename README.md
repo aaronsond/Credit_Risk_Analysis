@@ -10,7 +10,7 @@ Tools: Python, Pandas, Collections, Numpy, sklern, imblearn
 
 ## Analysis
 
-Naive Random Oversampling
+### Naive Random Oversampling
 
 ![](Resources/naivecon.PNG)
 ![](Resources/naiveclass.PNG)
@@ -19,7 +19,7 @@ Naive Random Oversampling
 * High risk precision: .01
 * High risk recall: .62
 
-SMOTE
+### SMOTE
 
 ![](Resources/smotecon.PNG)
 ![](Resources/smoteclass.PNG)
@@ -29,7 +29,7 @@ SMOTE
 * High risk recall: .63
 
 
-Cluster Centroids Undersampling
+### Cluster Centroids Undersampling
 
 ![](Resources/clustercon.PNG)
 ![](Resources/clusterclass.PNG)
@@ -38,7 +38,7 @@ Cluster Centroids Undersampling
 * High risk precision: .01
 * High risk recall: .69
 
-SMOTEENN (SMOTE and Edited Nearest Neighbors) Combination
+### SMOTEENN (SMOTE and Edited Nearest Neighbors) Combination
 
 ![](Resources/smoteencon.PNG)
 ![](Resources/smoteenclass.PNG)
@@ -47,7 +47,7 @@ SMOTEENN (SMOTE and Edited Nearest Neighbors) Combination
 * High risk precision: .01
 * High risk recall: .75
 
-Balanced Random Forest Classifier
+### Balanced Random Forest Classifier
 
 ![](Resources/forestcon.PNG)
 ![](Resources/forestclass.PNG)
@@ -56,7 +56,7 @@ Balanced Random Forest Classifier
 * High risk precision: .03
 * High risk recall: .70
 
-Easy Ensemble AdaBoost Classifier model
+### Easy Ensemble AdaBoost Classifier model
 
 ![](Resources/easycon.PNG)
 ![](Resources/easyclass.PNG)
